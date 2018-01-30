@@ -142,8 +142,8 @@ easing  | PropTypes.func  | true | Easing.ease  |   自定义加载动画样式
 
 方法            | 类型     | 可选 | 描述
 ----------------- | -------- | -------- | -----------
-show(bool)   | function | true | show a loading ui
-close()  |   function  |  -   |   hide loading ui
+show(bool)   | function | true | 显示加载器
+close()  |   function  |  -   |   隐藏关闭加载器
 
 
 ## 贡献
