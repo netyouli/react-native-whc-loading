@@ -7,7 +7,7 @@
 //  Created by WHC on 18/1/29.
 //  Copyright © 2017年 WHC. All rights reserved.
 //
-//  Github <https://github.com/netyouli/SexyJson>
+//  Github <https://github.com/netyouli/react-native-whc-loading>
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
@@ -65,7 +65,7 @@ export default class App extends Component<{}> {
           </TouchableHighlight>
 
           <TouchableHighlight
-              style={[styles.button, {backgroundColor: '#f4ea2a'}]}
+              style={[styles.button, {backgroundColor: '#13227a'}]}
               onPress={() => {
                   this.refs.loading3.show();
                   setTimeout(() => {

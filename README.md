@@ -65,7 +65,7 @@ render() {
           return (
               <View style={styles.container}>
                   ...
-                  <Loading show={show/false}/>
+                  <Loading show={true/false}/>
               </View>
           );
   }
