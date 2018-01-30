@@ -1,0 +1,38 @@
+{
+  "name": "react-native-whc-loading",
+  "version": "1.0.2",
+  "description": "A react native module to show network loading ui, it works on iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netyouli/react-native-whc-loading.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-loading",
+    "react-native-whc-loading",
+    "loading",
+    "loading-ios",
+    "loading-android",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "netyouli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netyouli/react-native-whc-loading/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.45.0",
+    "prop-types": "^15.5.7"
+  },
+  "homepage": "https://github.com/netyouli/react-native-whc-loading#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
