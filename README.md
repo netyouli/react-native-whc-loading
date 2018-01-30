@@ -1,7 +1,7 @@
 # react-native-whc-loading
 A react native module to show loading ui, it works on iOS and Android.
 
-[ ![release](https://img.shields.io/github/release/netyouli/react-native-whc-loading.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/react-native-easy-toast/releases)
+[ ![release](https://img.shields.io/github/release/netyouli/react-native-whc-loading.svg?maxAge=2592000?style=flat-square)](https://github.com/netyouli/react-native-whc-loading/releases)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/netyouli/react-native-whc-loading/pulls)
 [ ![NPM version](http://img.shields.io/npm/v/react-native-whc-loading.svg?style=flat)](https://www.npmjs.com/package/react-native-whc-loading)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-whc-loading/master/LICENSE)
