@@ -25,7 +25,7 @@ A react native module to show loading ui, it works on iOS and Android.
 ## Demo  
 * [Example](https://github.com/netyouli/react-native-whc-loading/tree/master/example)
 
-![Screenshots](https://raw.githubusercontent.com/netyouli/react-native-whc-loading/master/example/Screenshots/react-native-whc-loading-screenshots.gif)
+![Screenshots](https://raw.githubusercontent.com/netyouli/react-native-whc-loading/master/example/screenshots/react-native-whc-loading.gif)
 
 ## Getting started  
 
