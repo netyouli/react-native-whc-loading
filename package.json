@@ -1,6 +1,6 @@
 {
   "name": "react-native-whc-loading",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react native module to show network loading ui, it works on iOS and Android.",
   "main": "index.js",
   "scripts": {

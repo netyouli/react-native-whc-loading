@@ -24,7 +24,7 @@
 * 2.在要使用`Loading`的js文件中添加`import Loading from 'react-native-whc-loading'`
 
 ## Demo  
-* [Examples](https://github.com/netyouli/react-native-whc-loading/tree/master/example)
+* [Example](https://github.com/netyouli/react-native-whc-loading/tree/master/example)
 
 ![Screenshots](https://raw.githubusercontent.com/netyouli/react-native-whc-loading/master/example/screenshots/react-native-whc-loading.gif)
 
