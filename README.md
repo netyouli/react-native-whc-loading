@@ -79,7 +79,7 @@ render() {
             <View style={styles.container}>
                 <TouchableHighlight
                     onPress={()=>{
-                        this.refs.loading.close();
+                        this.refs.loading.show();
                     }}>
                     <Text>Start Loading</Text>
                 </TouchableHighlight>
@@ -97,7 +97,7 @@ render() {
             <View style={styles.container}>
                 <TouchableHighlight
                     onPress={()=>{
-                        this.refs.loading.close();
+                        this.refs.loading.show();
                     }}>
                     <Text>Start Loading</Text>
                 </TouchableHighlight>
@@ -109,7 +109,7 @@ render() {
                     size=70
                     imageSize=40
                     indicatorColor='gray'
-                    easingOut=Easing.ease
+                    easing=Loading.EasingType.ease
                 />
             </View>
         );
@@ -132,7 +132,7 @@ borderRadius  | PropTypes.number  | true | 5  |   Custom loading ui border radiu
 size  | PropTypes.number  | true | 70  |   Custom loading ui height width
 imageSize  | PropTypes.number  | true | 40  |   Custom loading image size
 indicatorColor  | PropTypes.string  | true | 'gray'  |   Custom default loading indicator color
-easingOut  | PropTypes.string  | true | Easing.ease  |   Custom loading image animation type
+easing  | PropTypes.func  | true | Easing.ease  |   Custom loading image animation type
 
 
 
