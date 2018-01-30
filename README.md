@@ -5,7 +5,7 @@ A react native module to show loading ui, it works on iOS and Android.
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/netyouli/react-native-whc-loading/pulls)
 [ ![NPM version](http://img.shields.io/npm/v/react-native-whc-loading.svg?style=flat)](https://www.npmjs.com/package/react-native-whc-loading)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-whc-loading/master/LICENSE)
-
+[ ![语言 中文](https://img.shields.io/badge/语言-中文-yellow.svg)](https://github.com/netyouli/react-native-whc-loading/blob/master/README.zh.md)
 
 
 
@@ -115,10 +115,6 @@ render() {
         );
     }
 ```
-
-**More Usage:**    
-
-[GitHubPopular](https://github.com/netyouli/GitHubPopular/blob/develop/js/page/SearchPage.js)
 
 
 ## API
