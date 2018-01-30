@@ -1,4 +1,4 @@
-# [react-native-whc-loading](https://github.com/crazycodeboy/react-native-whc-loading/)
+# [react-native-whc-loading](https://github.com/netyouli/react-native-whc-loading/)
 一款简单易用的 Loading 组件，支持 Android&iOS。
 
 [ ![release](https://img.shields.io/github/release/netyouli/react-native-whc-loading.svg?maxAge=2592000?style=flat-square)](https://github.com/netyouli/react-native-whc-loading/releases)
