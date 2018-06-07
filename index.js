@@ -132,7 +132,7 @@ export default class Loading extends Component {
             show = loading;
         }
         return (
-            <Modal transparent = {true} onRequestClose={null}
+            <Modal transparent = {true} onRequestClose={() => {}}
                    visible = {show}>
                 <View style = {styles.loadingView}>
                     <View style = {[styles.loading, {
